@@ -19,6 +19,10 @@ intalar o plugin
  definir a versão instalada como global
  
 asdf global ruby x.x.x
+  
+  definindo o ruby como local, dentro da pasta 
+  
+  asdf local ruby x.x.x
 
 # ruby
   corrigindo erro de ssl
