@@ -1,9 +1,20 @@
 
-ASDF
+# ASDF
 
 dependencias
 
 apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev
+
+instalando com asdf
+
+listar plugins
+' asdf plugin-list        
+
+ver a versão do plugin a instalar
+' asdf list-all <nome do plugin>
+  
+intalar o plugin
+' asdf install ruby 2.6.10
 
 
 
