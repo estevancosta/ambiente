@@ -16,6 +16,9 @@ ver a versão do plugin a instalar
 intalar o plugin
 ' asdf install ruby 2.6.10
 
+ definir a versão instalada como global
+ 
+asdf global ruby x.x.x
 
 # ruby
   corrigindo erro de ssl
